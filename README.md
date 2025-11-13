@@ -87,7 +87,7 @@ The project follows a **modular Flutter architecture** separating UI, models, an
 
 You can download the latest version of the **Electrical Store App** APK directly from Google Drive:  
 
-👉 [**Download Electrical Store App (APK)**](https://drive.google.com/file/d/1b9OLe4vYiuieKGEktaOh6f1Zcvx9keLN/view?usp=sharing)  
+👉 [**Download Electrical Store App (APK)**](https://drive.google.com/file/d/1bFbJDoPMt2ktJPwtKQsLVbmUyWM923Nk/view?usp=sharing)  
 
 ---
 
